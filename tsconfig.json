@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "target": "ES6"
+  },
+  "files": [
+    "server/main.ts"
+  ],
+  "include": [
+    "server/models/*",
+    "server/routes/*",
+    "server/login_test"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

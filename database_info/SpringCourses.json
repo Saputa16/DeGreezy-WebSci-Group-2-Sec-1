@@ -1,0 +1,886 @@
+[
+  {
+    "course_code": "CSCI",
+    "course_number": 1100,
+    "name": "COMPUTER SCIENCE I",
+    "semester": "Spring",
+    "description": "An introduction to computer programming algorithm design and analysis. Additional topics include basic computer organization; internal representation of scalar and array data; use of top-down design and subprograms to tackle complex problems; abstract data types. Enrichment material as time allows. Interdisciplinary case studies, numerical and nonnumerical applications. Students who have passed CSCI 1200 cannot register for this course.",
+    "prerequisites": [   
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 1190,
+    "name": "BEGINNING PROG FOR ENG",
+    "semester": "Spring",
+    "description": "This course teaches elementary programming concepts using the MATLAB environment for engineering students with little or no prior programming experience. Concepts include variables, looping, and function calls. Students cannot get credit for CSCI 1190 after earning credit for CSCI 1100 or any higher-level CSCI course.",
+    "prerequisites": [ 
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 1200,
+    "name": "DATA STRUCTURES",
+    "semester": "Spring",
+    "description": "Programming concepts: functions, parameter passing, pointers, arrays, strings, structs, classes, templates. Mathematical tools: sets, functions, and relations, order notation, complexity of algorithms, proof by induction. Data structures and their representations: data abstraction and internal representation, sequences, trees, binary search trees, associative structures. Algorithms: searching and sorting, generic algorithms, iterative and recursive algorithms. Methods of testing correctness and measuring performance.",
+    "prerequisites": [
+       "COMPUTER SCIENCE I"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 2200,
+    "name": "FOUNDATIONS OF COMPUTER SCI",
+    "semester": "Spring",
+    "description": "This course introduces important mathematical and theoretical tools for computer science, including topics from set theory, combinatorics, and probability theory, and then proceeds to automata theory, the Turing Machine model of computation, and notions of computational complexity. The course will emphasize formal reasoning and proof techniques.",
+    "prerequisites": [
+       "DATA STRUCTURES"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 2300,
+    "name": "INTRODUCTION TO ALGORITHMS",
+    "semester": "Spring",
+    "description": "Data structures and algorithms, and the mathematical techniques necessary to design and analyze them. Basic data structures: lists, associative structures, trees. Mathematical techniques for designing algorithms and analyzing worst-case and expected-case algorithm efficiency. Advanced data structures: balanced trees, tries, heaps, priority queues, graphs. Searching, sorting. Algorithm design techniques: dynamic programming, greedy algorithms, divide-and-conquer, backtracking. Example graph, string, geometric, and numeric algorithms.",
+    "prerequisites": [
+       "DATA STRUCTURES",
+       "FOUNDATIONS OF COMPUTER SCI"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 2500,
+    "name": "COMPUTER ORGANIZATION",
+    "semester": "Spring",
+    "description": "Introduction to computer organization, assembler language, and operating systems. Computer systems organization: processors, memory, I/O. Digital logic: gates, Boolean algebra, digital logic circuits, memory, buses. Microprogramming. Machine level: instruction formats, addressing modes, instruction types, flow of control. Operating systems: virtual memory, virtual I/O instructions, processes, interprocess communication. Numeric representation. Assembler language: the assembly process, macros, linking, loading. Advanced architectures: RISC architectures, parallel architectures.",
+    "prerequisites": [
+       "DATA STRUCTURES"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 2600,
+    "name": "PRINCIPLES OF SOFTWARE",
+    "semester": "Spring",
+    "description": "A study of important concepts in software design, implementation, and testing. Topics include specification, abstraction with classes, design principles and patterns, testing, refactoring, the software development process, GUI and event-driven programming, and cloud-based programming. The course also introduces implementation and testing tools, including IDEs, revision control systems, and other frameworks. The overarching goal of the course is for students to learn how to write correct and maintainable software.",
+    "prerequisites": [
+       "DATA STRUCTURES",
+       "FOUNDATIONS OF COMPUTER SCI"
+    ],
+    "corequisites": [
+ 
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 2960,
+    "name": "RCOS - LARGE GROUP",
+    "semester": "Spring",
+    "description": "",
+    "prerequisites": [
+       "COMPUTER SCIENCE I"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 2960,
+    "name": "RCOS - SMALL GROUP",
+    "semester": "Spring",
+    "description": "",
+    "prerequisites": [
+       "COMPUTER SCIENCE I"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 2960,
+    "name": "RCOS - LATE GROUP",
+    "semester": "Spring",
+    "description": "",
+    "prerequisites": [
+       "COMPUTER SCIENCE I"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 2960,
+    "name": "RCOS - WORKSHOPS & MENTOR MTGS",
+    "semester": "Spring",
+    "description": "",
+    "prerequisites": [
+       "COMPUTER SCIENCE I"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 4020,
+    "name": "DESIGN & ANALYSIS OF ALGORITHM",
+    "semester": "Spring",
+    "description": "This course presents fundamental ideas and techniques of modern algorithm design and analysis. After completing this course, students should be able to formally analyze and design efficient algorithms for a variety of computational problems. Topics covered include Greedy Algorithms, Dynamic Programming, Network Flow, NP-Completeness, Linear Programming, Network Algorithms, as well as probabilistic and approximate algorithms.",
+    "prerequisites": [
+       "INTRODUCTION TO ALGORITHMS"
+    ],
+    "corequisites": [
+ 
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 4150,
+    "name": "INTRO TO ARTIFICIAL INTELLIG",
+    "semester": "Spring",
+    "description": "Topics and techniques of artificial intelligence using the language LISP. Topics include search, knowledge representation, expert systems, theorem proving, natural language interfaces, learning, game playing, and computer vision. Techniques include pattern matching, data-driven programming, substitution rules, frames, heuristic search, transition networks, neural networks, and evolutionary computation. Development of programming proficiency in LISP is emphasized.",
+    "prerequisites": [
+       "INTRODUCTION TO ALGORITHMS"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 4210,
+    "name": "OPERATING SYSTEMS",
+    "semester": "Spring",
+    "description": "Discussion of various aspects of computer operating systems design and implementation. Topics include I/O programming, concurrent processes and synchronization problems, process management and scheduling of processes, virtual memory management, device management, file systems, deadlock problems, system calls, and interprocess communication. Programming projects are required.",
+    "prerequisites": [
+       "INTRODUCTION TO ALGORITHMS",
+       "COMPUTER ORGANIZATION"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 4260,
+    "name": "GRAPH THEORY",
+    "semester": "Spring",
+    "description": "Fundamental concepts and methods of graph theory and its applications to computing and the social and natural sciences. Topics include graphs as models, representation of graphs, trees, distances, matchings, connectivity, flows in networks, graph colorings, Hamiltonian cycles, traveling salesman problem, planarity. All concepts, methods, and applications are presented through a sequence of exercises and problems, many of which are done with the help of novel software systems for combinatorial computing.",
+    "prerequisites": [
+       "COMPUTER SCIENCE I",
+       "FOUNDATIONS OF COMPUTER SCIENCE"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 4320,
+    "name": "PARALLEL PROGRAMMING",
+    "semester": "Spring",
+    "description": "Techniques and methods for parallel programming: models of parallel machines and programs, efficiency and complexity of parallel algorithms. Paradigms of parallel programming and corresponding extensions to sequential programming languages. Overview of parallel languages and coordination languages and models; programming on networks of workstations. Basic parallel algorithms: elementary computation, matrix multiplication, sorting; sample scientific application.",
+    "prerequisites": [
+       "INTRODUCTION TO ALGORITHMS",
+       "COMPUTER ORGANIZATION"
+    ],
+    "corequisites": [
+ 
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 4380,
+    "name": "DATABASE SYSTEMS",
+    "semester": "Spring",
+    "description": "Discussion of the state of practice in modern database systems, with an emphasis on relational systems. Topics include database design, database system architecture, SQL, normalization techniques, storage structures, query processing, concurrency control, recovery, security, and new directions such as object-oriented and distributed database systems. Students gain hands-on experience with commercial database systems and interface building tools. Programming projects are required.",
+    "prerequisites": [
+       "INTRODUCTION TO ALGORITHMS"
+    ],
+    "corequisites": [
+ 
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 4400,
+    "name": "XINFORMATICS",
+    "semester": "Spring",
+    "description": "Informatics covers a broad range of disciplines addressing challenges in the explosion of data and information resources. Xinformatics provides commonality for implementations in specific disciplines, e.g. X=astro, geo. Informatics’ theoretical bases are information and computer science, cognitive science, social science, library science, aggregating these studies and adding the practice of information processing, and the engineering of information systems. This course grounds the material that students will learn in discipline areas by coursework and project assignments.",
+    "prerequisites": [
+       "DATA STRUCTURES",
+       "DATA SCIENCE"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 4430,
+    "name": "PROGRAMMING LANGUAGES",
+    "semester": "Spring",
+    "description": "This course is a study of the important concepts found in current programming languages. Topics include language processing (lexical analysis, parsing, type-checking, interpretation and compilation, run-time environment), the role of abstraction (data abstraction and control abstraction), programming paradigms (procedural, functional, object-oriented, logic-oriented, generic), and formal language definition.",
+    "prerequisites": [
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 4440,
+    "name": "SOFTWARE DESIGN & DOCUMENTATION",
+    "semester": "Spring",
+    "description": "Software system design methodology emphasizing use of object oriented modeling of application domains and of software systems and emphasizing the roles of written and oral communication in software engineering. Project management and software testing. Individual and team projects include specification, software architecture, user interfaces, and documentation of the phases of a project. This is a communication-intensive course.",
+    "prerequisites": [
+       "INTRODUCTION TO ALGORITHMS"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 4450,
+    "name": "PRINCIPLES OF PROGRAM ANALYSIS",
+    "semester": "Spring",
+    "description": "The goal of this course is to introduce students to program analysis and its many applications in software engineering, particularly in improving software quality and software productivity. Concretely, students who successfully complete this course should be able to: (1) understand and apply program analysis techniques, such as dataflow analysis and type-based analysis; (2) implement program analysis; (3) understand and apply software testing techniques, such as black-box testing and white-box testing; and (4) understand and apply refactoring techniques.",
+    "prerequisites": [
+       "PROGRAMMING LANGUAGES"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 4540,
+    "name": "GAME DEVELOPMENT II",
+    "semester": "Spring",
+    "description": "This course follows Game Development I. Students work in interdisciplinary teams to create one large-scale 3D game, working from concept to public release. Projects may include games, educational games, serious games and simulations, and interactive artworks, and will focus on creative design, technical execution, and use of game design principles. The course builds on skills and knowledge in previous courses in the GSAS core, including game design, game mechanics, game programming, art, and narrative.",
+    "prerequisites": [
+       "GAME DEVELOPMENT I"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 4550,
+    "name": "INTERACTIVE VISUALIZATION",
+    "semester": "Spring",
+    "description": "Visualizing data is a key step in understanding many problems. This course is designed to introduce students to methods of visualizing many different types of data, such as images, three-dimensional surfaces, flow fields, and medical data. Both existing visualization software and program custom visualizations using C++ and OpenGL will be used. Course activities include discussion of recent and classic research papers, weekly homework assignments, in-class critiques of visualization artifacts, and a final project to explore creative uses of these techniques. This is a communication-intensive course.",
+    "prerequisites": [
+       "INTRODUCTION TO ALGORITHMS",
+       "PRINCIPLES OF SOFTWARE"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 4800,
+    "name": "NUMERICAL COMPUTING",
+    "semester": "Spring",
+    "description": "A survey of numerical methods for scientific and engineering problems. Topics include numerical solution of linear and nonlinear algebraic equations, interpolation and least squares approximations, numerical integration and differentiation, eigenvalue problems, and an introduction to the numerical solution of ordinary differential equations. Emphasis is placed on efficient computational procedures including the use of library and student written procedures using high-level software such as MATLAB.",
+    "prerequisites": [
+       "COMPUTER SCIENCE I",
+       "MULTI VARIABLE CALCULUS"
+    ],
+    "corequisites": [
+       "INTRODUCTION TO DIFFERENTIAL EQUATIONS"
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 4820,
+    "name": "INTRO TO NUM METH FOR DIFF EQ",
+    "semester": "Spring",
+    "description": "Derivation, analysis, and use of computational procedures for solving differential equations. Topics covered include ordinary differential equations (both initial value and boundary value problems) and partial differential equations. Runge-Kutta and multistep methods for initial value problems. Finite difference methods for partial differential equations including techniques for heat conduction, wave propagation, and potential problems. Basic convergence and stability theory.",
+    "prerequisites": [
+       "NUMERICAL COMPUTING"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 4961,
+    "name": "COGNITIVE MODELING",
+    "semester": "Spring",
+    "description": "Recent advances in Cognitive Science, Computer Science and Mathematics, have resulted in the ability to develop computer programs that implement Probabilistic Cognitive Models (PCMs). The cognitive models that this course covers are based on approximate Bayesian Inference implemented by Markov Chain Monte Carlo and Variational techniques that have made this approach tractable. The objective of this course is to enable the student to develop models of cognition in a Bayesian framework.",
+    "prerequisites": [
+       "INTRODUCTION TO ALGORITHMS"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 4962,
+    "name": "SOFTWARE VERIFICATION",
+    "semester": "Spring",
+    "description": "",
+    "prerequisites": [
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 4964,
+    "name": "GRAPH MINING",
+    "semester": "Spring",
+    "description": "",
+    "prerequisites": [
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 4967,
+    "name": "ECONOMICS AND COMPUTATION",
+    "semester": "Spring",
+    "description": "",
+    "prerequisites": [
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 4969,
+    "name": "MACH LEARNING BIOINFORMATICS",
+    "semester": "Spring",
+    "description": "",
+    "prerequisites": [
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 4976,
+    "name": "WEB SCIENCE SYSTEMS DEVELOPMENT",
+    "semester": "Spring",
+    "description": "Building on the technology covered in Web Systems Development, students will be exposed to current technologies, frameworks, and practices in the area of Web development. Types of topics included will be HTML5/CSS3, API’s for data, Ruby on Rails, node.js, MongoDB, PHP, and RDF. Methodology to be explored will be application design, software versioning, and team development. Lab intensive, this course is intended to complete a foundation for the advanced courses in Data Science and Advanced Web Science.",
+    "prerequisites": [
+       "WEB SYSTEMS DEVELOPMENT"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 6360,
+    "name": "PARALLEL COMPUTING",
+    "semester": "Spring",
+    "description": "A survey of fundamental issues in design of efficient programs for parallel computers. The topics discussed include models of parallel machines and programs, efficiency of parallel algorithms, programming styles for shared memory, message passing, data parallelism, and using MPI in scientific parallel programs. Parallel programming project required.",
+    "prerequisites": [
+       "OPERATING SYSTEMS"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 6840,
+    "name": "NUMERICAL SOLUTION OF PARTIAL DIFFERENTIAL EQUATIONS",
+    "semester": "Spring",
+    "description": "Numerical methods and analysis for linear and nonlinear PDEs with applications from heat conduction, wave propagation, solid and fluid mechanics, and other areas. Basic concepts of stability and convergence (Lax equivalence theorem, CFL condition, energy methods). Methods for parabolic problems (finite differences, method of lines, ADI, operator splitting), methods for hyperbolic problems (vector systems and characteristics, dissipation and dispersion, shocks capturing and tracking schemes), methods for elliptic problems (finite difference and finite volume methods).",
+    "prerequisites": [
+       
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 6900,
+    "name": "COMPUTER SCIENCE COLLOQUIUM",
+    "semester": "Spring",
+    "description": "Presentation of current developments in computer science. Reports by students.",
+    "prerequisites": [
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 6960,
+    "name": "COMPUTER SCIENCE SEMINAR",
+    "semester": "Spring",
+    "description": "",
+    "prerequisites": [
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 6961,
+    "name": "ADV DISTRIBUTED SYSTEM SEMINAR",
+    "semester": "Spring",
+    "description": "",
+    "prerequisites": [
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 6970,
+    "name": "PROFESSIONAL PROJECT",
+    "semester": "Spring",
+    "description": "",
+    "prerequisites": [      
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 6980,
+    "name": "MASTER'S PROJECT",
+    "semester": "Spring",
+    "description": "",
+    "prerequisites": [      
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 6990,
+    "name": "MASTER'S THESIS",
+    "semester": "Spring",
+    "description": "",
+    "prerequisites": [      
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CSCI",
+    "course_number": 9990,
+    "name": "DISSERTATION",
+    "semester": "Spring",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of IP are assigned until the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education to be archived in a standard format in the library. Grades will then be listed as S.",
+    "prerequisites": [      
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+ {
+    "course_code": "ITWS",
+    "course_number": 1100,
+    "name": "INTRO TO IT & WEB SCIENCE",
+    "semester": "Spring",
+    "description": "This course introduces students to the field of information technology and Web science, the types of problems encountered in the field, and the solution approaches used to solve them. Through a series of activities and projects, students are introduced to topics such as Web systems design, emerging Web standards, database systems, security, and computer networking. Guest speakers highlight information technology practices in industry. Students work in groups on a team project and presentation at the end of the course.",
+    "prerequisites": [
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "ITWS",
+    "course_number": 1220,
+    "name": "IT AND SOCIETY",
+    "semester": "Spring",
+    "description": "Will IT increase prosperity? For whom? What role should governments play in IT development? Do corporations have new responsibilities in the Information Era? What about IT professionals? This course explores the issues, the arguments and working solutions. The first section examines macro indicators and trends. The second section examines the microeconomics and politics of specific arenas—the software industry, the automated work place, telemedicine, television. The last section explores opportunities for improving society, using IT. This is a communication-intensive course.",
+    "prerequisites": [
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "ITWS",
+    "course_number": 2110,
+    "name": "WEB SYSTEMS DEVELOPMENT",
+    "semester": "Fall",
+    "description": "This course involves a study of the methods used to extract and deliver dynamic information on the World Wide Web. The course uses a hands-on approach in which students actively develop Web-based software systems. Additional topics include installation, configuration, and management of Web servers. Students are required to have access to a PC on which they can install software such as a Web server and various programming environments.",
+    "prerequisites": [
+      "INTRO TO IT & WEB SCIENCE",
+      "DATA STRUCTURES"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "ITWS",
+    "course_number": 2210,
+    "name": "INTRODUCTION TO HCI",
+    "semester": "Spring",
+    "description": "An introduction to the current theories, methods, and issues in human-computer interaction. Theory and research along with practical application are discussed within the context of organizational impact. The course provides the knowledge of HCI systems and research used for the implementation of safe, quick, and useable interactive technologies.",
+    "prerequisites": [
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "ITWS",
+    "course_number": 4100,
+    "name": "IT & WEB SCIENCE CAPSTONE",
+    "semester": "Spring",
+    "description": "Students work on collaborative projects to design innovative ITWS solutions which address a specific problem or area of need in the student’s field. Students work to identify a problem and research viable solutions. They go on to propose, design, and prototype their ITWS solution learning best practices for ITWS project management, communication, and user-center design. This course serves as the culminating experience for the undergraduate ITWS program. Restricted to ITWS majors. This is a communication-intensive course.",
+    "prerequisites": [
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "ITWS",
+    "course_number": 4300,
+    "name": "BUSINESS ISSUES FOR ENGR & SCI",
+    "semester": "Spring",
+    "description": "Investigates business-related considerations in successfully commercializing new technology in a new venture or within an existing enterprise: market and customer analysis, beating the competition, planning and managing for profitability, high-tech marketing and sales, and business partnerships and acquisitions. Not a general management course; focuses explicitly on what is relevant for engineers and scientists working in a commercial environment. For junior/senior undergraduate or graduate students.",
+    "prerequisites": [
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "ITWS",
+    "course_number": 4310,
+    "name": "MANAGING IT RESOURCES",
+    "semester": "Spring",
+    "description": "This course provides an introduction to fundamental concepts of management and applies them to IT. It examines the use of IT in business processes and the management issues of integrating IT into organizational processes to gain competitive advantage. Topics include: management, organizations, and information systems; development life cycle; project management and systems engineering; process reengineering; and organizational learning. This course includes the planning, development, and implementation of an IT project for a real client.",
+    "prerequisites": [
+      "WEB SYSTEMS DEVELOPMENT"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "ITWS",
+    "course_number": 4370,
+    "name": "INFORMATION SYSTEM SECURITY",
+    "semester": "Spring",
+    "description": "This course covers foundational models for information security, policies, authentication, access control, database security, assurance, auditing, and intrusion detection. It also devotes substantial time to secure coding practices. Students will be expected to complete projects that explore an aspect of information security in detail. Cryptography is not covered since it is a focus of other courses.",
+    "prerequisites": [
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "ITWS",
+    "course_number": 4600,
+    "name": "DATA ANALYTICS",
+    "semester": "Spring",
+    "description": "The world at-large is confronted with increasingly larger and complex sets of structured/unstructured information; from cyber and human sources. Traditional enterprises are moving toward analytics-driven approaches for core business functions. Data and information analytics extends analysis (descriptive models of data) by using data mining and machine learning methods, with optimization and validation, to recommend action or guide and communicate decision-making. Thus, analytics is an entire methodology rather than individual analyses or analysis steps.",
+    "prerequisites": [
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "ITWS",
+    "course_number": 4980,
+    "name": "SPECIAL PROJECTS",
+    "semester": "Spring",
+    "description": "Active participation in a senior-level project supervised by a faculty member and requiring a presentation and project report. Grades of “in-progress” are assigned until the special project has been approved by the faculty member.",
+    "prerequisites": [
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "ITWS",
+    "course_number": 4990,
+    "name": "SENIOR THESIS",
+    "semester": "Spring",
+    "description": "A two-semester spring-fall or fall-spring course dealing with an advanced level independent research project supervised by a faculty member and requiring the presentation of a thesis. First term registration is limited to second semester juniors and first semester seniors. The grade for the first semester will be listed as “In progress.”",
+    "prerequisites": [
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "ITWS",
+    "course_number": 6700,
+    "name": "SOFTWARE DEVELOPMENT",
+    "semester": "Spring",
+    "description": "This course teaches students about the roles and infrastructure of IT departments in modern organizations, IT software engineering technologies and methodologies for software development life cycle through hands-on experience. The course is for students with software development background to enhance their knowledge of software development and management, the software development industry, open source community, etc.",
+    "prerequisites": [
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "ITWS",
+    "course_number": 6800,
+    "name": "IT MASTER'S CAPSTONE",
+    "semester": "Spring",
+    "description": "Integration of the knowledge and professional practice of the Master’s in IT core and concentration courses. Topics in database systems, networking, software design, human computer interaction, management of technology, and ethics are applied within a framework of global e-business strategy. The course utilizes a Team Project with a real organization to practice major IT concepts. Team members select, develop, and present a significant technology implementation project, incorporating strategy, systems development, and business planning.",
+    "prerequisites": [
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "ITWS",
+    "course_number": 6990,
+    "name": "MASTERS THESIS",
+    "semester": "Spring",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a master’s thesis. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "prerequisites": [
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "MATH",
+    "course_number": 1010,
+    "name": "CALCULUS I",
+    "semester": "Spring",
+    "description": "Functions, limits, continuity, derivatives, implicit differentiation, related rates, maxima and minima, elementary transcendental functions, introduction to definite integral with applications to area and volumes of revolution.",
+    "prerequisites": [
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "MATH",
+    "course_number": 1020,
+    "name": "CALCULUS II",
+    "semester": "Spring",
+    "description": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+    "prerequisites": [
+      "CALCLUS I"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "MATH",
+    "course_number": 1500,
+    "name": "CALCULUS FOR ARCHITECTURE MANAGEMENT AND HASS",
+    "semester": "Fall",
+    "description": "Basic concepts in differential and integral calculus for functions of one variable. Topics will include functions, limits, continuity, derivatives, integration, exponential and logarithmic functions, and techniques of integration. Application areas will include topics in Management, Architecture, and Social Sciences with special emphasis on the role of calculus in introductory probability.",
+    "prerequisites": [
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "MATH",
+    "course_number": 1520,
+    "name": "MATHEMATICAL METHODS IN MANAGEMENT AND ECONOMICS",
+    "semester": "Fall",
+    "description": "Functions of several variables, introductory linear algebra, and other analytical techniques needed for further study in probability, statistics, and operations research. Topics covered include improper integrals, probability density functions, partial derivatives and optimization techniques for functions of several variables, matrix algebra, linear systems, lines and planes in 3-space, linear inequalities, introductory linear programming, introductory combinatorics, and some probability.",
+    "prerequisites": [
+      "CALCULUS I",
+      "CALCULUS FOR ARCHITECTURE MANAGEMENT AND HASS"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "MATH",
+    "course_number": 2010,
+    "name": "MULTIVARIABLE CALCULUS AND MATRIX ALGEBRA",
+    "semester": "Fall",
+    "description": "Directional derivatives, maxima and minima, double integrals, line integrals, div and curl, and Green’s Theorem; matrix algebra and systems of linear equations, vectors and linear transformations in R^n, eigenvectors and eigenvalues, applications in engineering and science.",
+    "prerequisites": [
+      "CALCULUS II"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "MATH",
+    "course_number": 2400,
+    "name": "INTRODUCTION TO DIFFERENTIAL EQUATIONS",
+    "semester": "Fall",
+    "description": "First-order differential equations, second-order linear equations, eigenvalues and eigenvectors of matrices, systems of first-order equations, stability and qualitative properties of nonlinear autonomous systems in the plane, Fourier series, separation of variables for partial differential equations.",
+    "prerequisites": [
+      "CALCULUS II"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "PHYS",
+    "course_number": 1100,
+    "name": "PHYSICS I",
+    "semester": "Spring",
+    "description": "The first semester of a two-semester sequence of interactive courses. Topics include linear and angular kinematics and dynamics, work and energy, momentum and collisions, forces and fields, gravitation, oscillatory motion, waves, sound, and interference.",
+    "prerequisites": [
+      "CALCULUS I"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "PHYS",
+    "course_number": 1200,
+    "name": "PHYSICS II",
+    "semester": "Spring",
+    "description": "The second semester of the two-semester sequence of interactive courses. Topics include electric and magnetic forces and fields, Gauss’s Law, dc and ac circuits, Ampere’s Law and Faraday’s Law, electromagnetic radiation, physical optics, and quantum physics.",
+    "prerequisites": [
+      "PHYSICS I"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "BIOL",
+    "course_number": 1010,
+    "name": "INTRODUCTION TO BIOLOGY",
+    "semester": "Spring",
+    "description": "Introduction to biological systems. Discussion of problems associated with biological organization, scaling, and hierarchy. Major topics covered include evolution, genetics and medicine, and ecology. The course considers the biological components of various environmental, social, and individual problems. Course is taught using both traditional and research-based pedagogical methods.",
+    "prerequisites": [
+    ],
+    "corequisites": [
+      "INTRODUCTION TO BIOLOGY LAB"
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "BIOL",
+    "course_number": 1015,
+    "name": "INTRODUCTION TO BIOLOGY LAB",
+    "semester": "Spring",
+    "description": "The goal of this laboratory course is to learn about biology through hands-on, project-based lab activities that engage students in actual biology experiments and procedures - learning biology by actually doing biology.",
+    "prerequisites": [
+    ],
+    "corequisites": [
+      "INTRODUCTION TO BIOLOGY"
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "CHEM",
+    "course_number": 1100,
+    "name": "CHEMISTRY I",
+    "semester": "Fall",
+    "description": "Principles of chemistry, with particular focus on atomic and molecular structure and bonding, periodicity, basic thermodynamic principles, introduction to acid-base chemistry and elementary chemical equilibrium, and introduction to organic chemistry. Students cannot get credit for both this course and CHEM 1110.",
+    "prerequisites": [
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+    {
+    "course_code": "MGMT",
+    "course_number": 2100,
+    "name": "STATISTICAL METHODS",
+    "semester": "Spring",
+    "description": "This course develops an understanding of concepts in business statistics and focuses on application of concepts in problem-solving situations. In particular, students learn to present and describe data, analyze probability distributions, make statistical inferences based on data samples, and develop models for prediction and forecasting.",
+    "prerequisites": [
+      "CALCULUS FOR ARCHITECTURE MANAGEMENT AND HASS",
+      "MATHEMATICAL METHODS IN MANAGEMENT AND ECONOMICS"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "MGMT",
+    "course_number": 4100,
+    "name": "QUANTITATIVE METHODS FOR BUSINESS",
+    "semester": "Spring",
+    "description": "This course introduces the student to the business management of production and operations systems. The concepts are related to inventory control, forecasting, scheduling, man-powers, and facilities planning. Computer usage includes Excel and specialized packages.",
+    "prerequisites": [
+      "STATISTICAL METHODS"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "MGMT",
+    "course_number": 4110,
+    "name": "OPERATIONS MANAGEMENT",
+    "semester": "Spring",
+    "description": "This course introduces the student to the operations function in services and manufacturing-oriented firms. Students develop an appreciation of the concepts, principles, and techniques used for decision making in the operations function. The course takes a managerial perspective. Students cannot receive credit for this course if they have already taken ISYE 2210.",
+    "prerequisites": [
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  },
+  {
+    "course_code": "MGMT",
+    "course_number": 4170,
+    "name": "DATA RESOURCE MANAGEMENT",
+    "semester": "Spring",
+    "description": "This is a hands-on course where students will learn a mix of theoretical and practical tools. Using these tools, they will solve a variety of supply chain problems, both analytically and numerically. Students will examine data and use this to understand supply, demand, and inventory levels using R to model many of these problems. The course will also review the data and assess its suitability for modelling. Time series, Markov chain, optimal control, linear programming, statistical analysis, and other mathematical tools will be used to reveal the data’s secrets. The bottom line is these insights will be used to make recommendations to firms and other decision makers. Students will also look at qualitative problems through the examination and discussions of cases in class. Not everything can be distilled to a number and so a holistic view of business problems will be taken to make more strategic recommendations. Teams of students will then solve and present these case results.",
+    "prerequisites": [
+      "QUANTITATIVE METHODS FOR BUSINESS",
+      "OPERATIONS MANAGEMENT"
+    ],
+    "corequisites": [
+    ],
+    "majorRestricted": true
+  }
+ ]

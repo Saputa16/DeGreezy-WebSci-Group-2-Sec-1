@@ -1,0 +1,20 @@
+major {{SOME????}}
+ng-repeat: "i in items" 
+
+Concentration: {{i.concentration}}
+
+<div class="custom-control custom-checkbox" >
+    <label class="custom-control-label {{i.Completed}}" for="defaultChecked2">{{i.name}}</label>
+</div>
+</br>
+
+In class
+
+
+
+.true {
+    background: green
+}
+.false{
+    background:red
+}

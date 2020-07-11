@@ -1,0 +1,854 @@
+[
+	{
+		"name":"CSCI: Theory and Algorithms",
+		"major_courses": [
+			"COMPUTER SCIENCE I",
+			"DATA STRUCTURES",
+			"CALCULUS I",
+			"PHYSICS I",
+			"CALCULUS II",
+			"INTRODUCTION TO BIOLOGY",
+			"INTRODUCTION TO BIOLOGY LAB",
+			"FOUNDATIONS OF COMPUTER SCI",
+			"COMPUTER ORGANIZATION",
+			"INTRODUCTION TO ALGORITHMS",
+			"PRINCIPLES OF SOFTWARE",
+			"OPERATING SYSTEMS",
+			"PROGRAMMING LANGUAGES"
+		],
+		"elective_courses": [
+			{
+				"name": "Science Option",
+				"count": 1,
+				"classes": [
+					"PHYSICS II",
+					"CHEMISTRY I"
+				]
+			},
+			{
+				"name": "Mathematics Option",
+				"count": 2,
+				"classes": [
+					"MULTIVARIABLE CALCULUS AND MATRIX ALGEBRA",
+					"INTRODUCTION TO DIFFERENTIAL EQUATIONS"
+				]
+			},
+			{
+				"name": "Computer Science Option",
+				"count": 4,
+				"classes": [
+					"GRAPH THEORY",
+					"PARALLEL PROGRAMMING",
+					"DATABASE SYSTEMS",
+					"XINFORMATICS",
+					"SOFTWARE DESIGN & DOCUME",
+					"PRINCIPLES OF PROGRAM ANALYSIS",
+					"GAME DEVELOPMENT II",
+					"INTERACTIVE VISUALIZATION",
+					"NUMERICAL COMPUTING",
+					"INTRO TO NUM METH FOR DIFF EQ",
+					"COGNITIVE MODELING",
+					"SOFTWARE VERIFICATION",
+					"GRAPH MINING",
+					"ECONOMICS AND COMPUTATION",
+					"MACH LEARNING BIOINFORMATICS",
+					"WEB SCIENCE SYSTEMS DEV",
+					"PARALLEL COMPUTING",
+					"PRINCIPLES OF PROGRAM ANALYSIS",
+					"NUMERICAL SOLUTION OF PARTIAL DIFFERENTIAL EQUATIONS",
+					"COMPUTER SCIENCE COLLOQUIUM",
+					"COMPUTER SCIENCE SEMINAR",
+					"ADV DISTRIBUTED SYSTEM SEMINAR",
+					"SOFTWARE VERIFICATION",
+					"ECONOMICS AND COMPUTATION",
+					"MACH LEARNING BIOINFORMATICS",
+					"PROFESSIONAL PROJECT",
+					"MASTER'S PROJECT",
+					"MASTER'S THESIS",
+					"DISSERTATION"
+				]
+			},
+			{
+				"name": "Theory and Algorithms Concentration Courses",
+				"count": 3,
+				"classes": [
+					"DESIGN AND ANALYSIS OF ALGORITHMS",
+					"RANDOMIZED ALGORITHMS",
+					"APPROXIMATION ALGORITHMS",
+					"MACHINE LEARNING FROM DATA",
+					"COMPUTATIONAL SOCIAL PROCESSES",
+					"COMPUTATIONAL FINANCE",
+					"INTRODUCTION TO ARTIFICAL INTELLIGENCE",
+					"CRYPTOGRAPHY AND NETWORK SECURITY I",
+					"CRYPTOGRAPHY AND NETWORK SECURITY II",
+					"COMPUTATIONAL SOCIAL PROCESSES",
+					"COMPUTATIONAL FINANCE",
+					"INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+					"CRYPTOGRAPHY AND NETWORK SECURITY I",
+					"CRYPTOGRAPHY AND NETWORK SECURITY II",
+					"FRONTIERS OF NETWORK SCIENCE",
+					"GRAPH THEORY",
+					"COMPUTABILITY AND LOGIC",
+					"DSITRIBUTED SYSTEMS AND ALGORITHMS",
+					"NUMERICAL COMPUTING",
+					"INTRODUCTION TO NUMERICAL METHODS FOR DIFF. EQNS.",
+					"ML FOR BIOINFORMATICS",
+					"COGNITIVE MODELING",
+					"PARALLEL GRPAH ANALYSIS",
+					"LARGE-SCALE MATRIX COMPUTATION AND ML",
+					"MACHINE LEARNING AND OPTIMIZATION",
+					"PROGRAMMING FOR COGNITIVE SCIENCE AND AI",
+					"ALGORITHMIC ROBOTICS",
+					"NETWORK RESILIENCE",
+					"SOFTWARE VERIFICATION",
+					"SOCIAL PROCESSES AND NETWORKS",
+					"ECONOMICS AND COMPUTATION",
+					"INTRODUCTION TO NETWORK SCIENCE",
+					"TIME SERIES ANALYSIS",
+					"COMPUTING AND QUANTUM COMPUTING",
+					"COMPUTATIONAL LINEAR ALGEBRA",
+					"NUMERICAL SOLUTION OF ORDINARY DIFFERENTIAL EQNS",
+					"NUMERIAL SOLUTION OF PARTIAL DIFFERENTIAL EQNS",
+					"FINITE ELEMENT ANALYSIS",
+					"ALGORITHMIC GAME THEORY",
+					"MODELING & SIMULATION FOR CYBER-PHYSICAL SYSTEMS",
+					"INTRODUCTION TO DEEP LEARNING",
+					"INTRODUCTION TO MACHINE LEARNING",
+					"NETWORKS AND NETWORKED SYSTEMS",
+					"PATTERN RECOGNITION",
+					"NUMERICAL LINEAR ALGEBRA WITH APPLICATIONS",
+					"COMPUTATIONAL OPTIMIZATION",
+					"LINEAR PROGRAMMING"
+				]
+			},
+			{
+				"name": "HASS",
+				"count": 6,
+				"classes": [
+					"GENERAL PSYCHOLOGY",
+					"POSITIVE PSYCHOLOGY",
+					"PRINCIPLES OF ECONOMICS",
+					"INTERMEDIATE MICROECONOMIC THEORY",
+					"HISTORY AND CULTURE OF GAMES",
+					"MONEY AND BANKING"
+				]
+			}
+		]
+	},
+	{
+		"name":"CSCI: Systems and Software",
+		"major_courses": [
+			"COMPUTER SCIENCE I",
+			"DATA STRUCTURES",
+			"CALCULUS I",
+			"PHYSICS I",
+			"CALCULUS II",
+			"INTRODUCTION TO BIOLOGY",
+			"INTRODUCTION TO BIOLOGY LAB",
+			"FOUNDATIONS OF COMPUTER SCI",
+			"COMPUTER ORGANIZATION",
+			"INTRODUCTION TO ALGORITHMS",
+			"PRINCIPLES OF SOFTWARE",
+			"OPERATING SYSTEMS",
+			"PROGRAMMING LANGUAGES"
+		],
+		"elective_courses": [
+			{
+				"name": "Science Option",
+				"count": 1,
+				"classes": [
+					"PHYSICS II",
+					"CHEMISTRY I"
+				]
+			},
+			{
+				"name": "Mathematics Option",
+				"count": 2,
+				"classes": [
+					"MULTIVARIABLE CALCULUS AND MATRIX ALGEBRA",
+					"INTRODUCTION TO DIFFERENTIAL EQUATIONS"
+				]
+			},
+			{
+				"name": "Computer Science Option",
+				"count": 4,
+				"classes": [
+					"GRAPH THEORY",
+					"PARALLEL PROGRAMMING",
+					"DATABASE SYSTEMS",
+					"XINFORMATICS",
+					"SOFTWARE DESIGN & DOCUME",
+					"PRINCIPLES OF PROGRAM ANALYSIS",
+					"GAME DEVELOPMENT II",
+					"INTERACTIVE VISUALIZATION",
+					"NUMERICAL COMPUTING",
+					"INTRO TO NUM METH FOR DIFF EQ",
+					"COGNITIVE MODELING",
+					"SOFTWARE VERIFICATION",
+					"GRAPH MINING",
+					"ECONOMICS AND COMPUTATION",
+					"MACH LEARNING BIOINFORMATICS",
+					"WEB SCIENCE SYSTEMS DEV",
+					"PARALLEL COMPUTING",
+					"PRINCIPLES OF PROGRAM ANALYSIS",
+					"NUMERICAL SOLUTION OF PARTIAL DIFFERENTIAL EQUATIONS",
+					"COMPUTER SCIENCE COLLOQUIUM",
+					"COMPUTER SCIENCE SEMINAR",
+					"ADV DISTRIBUTED SYSTEM SEMINAR",
+					"SOFTWARE VERIFICATION",
+					"GRAPH MINING",
+					"ECONOMICS AND COMPUTATION",
+					"MACH LEARNING BIOINFORMATICS",
+					"PROFESSIONAL PROJECT",
+					"MASTER'S PROJECT",
+					"MASTER'S THESIS",
+					"DISSERTATION"
+				]
+			},
+			{
+				"name": "Systems and Software Concentration Courses",
+				"count": 3,
+				"classes": [
+					"NETWORK PROGRAMMING",
+					"NETWORKING IN THE LINUX KERNEL",
+					"PARALLEL PROGRAMMING",
+					"PARALLEL COMPUTING",
+					"DATABASE SYSTEMS",
+					"SOFTWARE DESIGN & DOCUME",
+					"PRINCIPLES OF PROGRAM ANALYSIS",
+					"LARGE-SCALE PROGRAMMING AND TESTING",
+					"DISTRIBUTED COMPUTING OVER THE INTERNET",
+					"DISTRIBUTED SYSTEMS AND ALGORITHMS",
+					"MALWARE ANALYSIS",
+					"CLOUD COMPUTING SEMINAR",
+					"DIGITAL MANUFACTURING",
+					"SECURITY TOPICS COURSE",
+					"HARDWARE REVERSE ENGINEERING",
+					"LLVM: A COMPILER CASE STUDY",
+					"MODERN BINARY EXPLOITATION",
+					"WEB SCIENCE SYSTEMS DEV",
+					"COMPUTER COMMUNICATION NETWORKS",
+					"OPEN SOURCE SOFTWARE",
+					"APPLICATION/ADVANCED PROGRAMMING USING JAVA",
+					"GRAPH MINING",
+					"APPLIED PARALLEL COMPUTING FOR ENGINEERS",
+					"COMPUTER HARDWARE DESIGN",
+					"ADVANCED COMPUTER HARDWARE DESIGN",
+					"MICROPROCESSOR SYSTEMS",
+					"INTERNETWORKING OF THINGS"
+				]
+			},
+			{
+				"name": "HASS",
+				"count": 6,
+				"classes": [
+					"GENERAL PSYCHOLOGY",
+					"POSITIVE PSYCHOLOGY",
+					"PRINCIPLES OF ECONOMICS",
+					"INTERMEDIATE MICROECONOMIC THEORY",
+					"HISTORY AND CULTURE OF GAMES",
+					"MONEY AND BANKING"
+				]
+			}
+		]
+	},
+	{
+		"name":"CSCI: Artifical Intelligence and Data",
+		"major_courses": [
+			"COMPUTER SCIENCE I",
+			"DATA STRUCTURES",
+			"CALCULUS I",
+			"PHYSICS I",
+			"CALCULUS II",
+			"INTRODUCTION TO BIOLOGY",
+			"INTRODUCTION TO BIOLOGY LAB",
+			"FOUNDATIONS OF COMPUTER SCI",
+			"COMPUTER ORGANIZATION",
+			"INTRODUCTION TO ALGORITHMS",
+			"PRINCIPLES OF SOFTWARE",
+			"OPERATING SYSTEMS",
+			"PROGRAMMING LANGUAGES"
+		],
+		"elective_courses": [
+			{
+				"name": "Science Option",
+				"count": 1,
+				"classes": [
+					"PHYSICS II",
+					"CHEMISTRY I"
+				]
+			},
+			{
+				"name": "Mathematics Option",
+				"count": 2,
+				"classes": [
+					"MULTIVARIABLE CALCULUS AND MATRIX ALGEBRA",
+					"INTRODUCTION TO DIFFERENTIAL EQUATIONS"
+				]
+			},
+			{
+				"name": "Computer Science Option",
+				"count": 4,
+				"classes": [
+					"GRAPH THEORY",
+					"PARALLEL PROGRAMMING",
+					"DATABASE SYSTEMS",
+					"XINFORMATICS",
+					"SOFTWARE DESIGN & DOCUME",
+					"PRINCIPLES OF PROGRAM ANALYSIS",
+					"GAME DEVELOPMENT II",
+					"INTERACTIVE VISUALIZATION",
+					"NUMERICAL COMPUTING",
+					"INTRO TO NUM METH FOR DIFF EQ",
+					"COGNITIVE MODELING",
+					"SOFTWARE VERIFICATION",
+					"GRAPH MINING",
+					"ECONOMICS AND COMPUTATION",
+					"MACH LEARNING BIOINFORMATICS",
+					"WEB SCIENCE SYSTEMS DEV",
+					"PARALLEL COMPUTING",
+					"PRINCIPLES OF PROGRAM ANALYSIS",
+					"INTERACTIVE VISUALIZATION",
+					"NUMERICAL SOLUTION OF PARTIAL DIFFERENTIAL EQUATIONS",
+					"COMPUTER SCIENCE COLLOQUIUM",
+					"COMPUTER SCIENCE SEMINAR",
+					"ADV DISTRIBUTED SYSTEM SEMINAR",
+					"SOFTWARE VERIFICATION",
+					"GRAPH MINING",
+					"ECONOMICS AND COMPUTATION",
+					"MACH LEARNING BIOINFORMATICS",
+					"PROFESSIONAL PROJECT",
+					"MASTER'S PROJECT",
+					"MASTER'S THESIS",
+					"DISSERTATION"
+				]
+			},
+			{
+				"name": "Aritifical Intelligence and Data Concentration Courses",
+				"count": 3,
+				"classes": [
+					"MACHINE LEARNING FROM DATA",
+					"COMPUTATIONAL SOCIAL PROCESSES",
+					"NATURAL LANGUAGE PROCESSING",
+					"INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+					"COMPUTATIONAL VISION",
+					"ONTOLOGIES",
+					"DATA SCIENCE",
+					"DATA AND SOCIETY",
+					"DATABASE SYSTEMS",
+					"DATA MINING",
+					"XINFORMATICS",
+					"COMPUTABILITY AND LOGIC",
+					"ROBOTICS I",
+					"ROBOTICS II",
+					"DATA ANALYTICS",
+					"COGNITIVE COMPUTING",
+					"LEARNING AND ADVANCED GAME AI",
+					"GAME AI",
+					"LANGUAGE ENDOWED INTELLIGENT AGENTS",
+					"INTELLIGENT VIRTUAL AGENTS",
+					"SEMANTIC WEB TOPICS COURSE",
+					"KNOWLEDGE DISCOVERY AND EXTRACTION",
+					"ALGORITHMIC ROBOTICS",
+					"AFFECTIVE COMPUTING",
+					"PROGRAMMING FOR COGNITIVE SCIENCE AND AI",
+					"COGNITIVE MODELING",
+					"ML FOR BIOINFORMATICS",
+					"ADVANCED WEB SCIENCE",
+					"LARGE-SCALE MATRIX COMPUTATION AND ML",
+					"MACHINE LEARNING AND OPTIMIZATION",
+					"NETWORK RESILIENCE",
+					"SOCIAL PROCESSES AND NETWORKS",
+					"ECONMICS AND COMPUTATION",
+					"AI IN FACT AND FICTION",
+					"COMPUTING AND QUANTUM COMPUTING",
+					"INFORMATION RETRIEVAL",
+					"INTRODUCTION TO DEEP LEARNING",
+					"INTRODUCTION TO MACHINE LEARNING",
+					"PATTERN RECOGNITION"
+				]
+			},
+			{
+				"name": "HASS",
+				"count": 6,
+				"classes": [
+					"GENERAL PSYCHOLOGY",
+					"POSITIVE PSYCHOLOGY",
+					"PRINCIPLES OF ECONOMICS",
+					"INTERMEDIATE MICROECONOMIC THEORY",
+					"HISTORY AND CULTURE OF GAMES",
+					"MONEY AND BANKING"
+				]
+			}
+		]
+	},
+	{
+		"name":"CSCI: Vision, Graphics, Robotics, and Games",
+		"major_courses": [
+			"COMPUTER SCIENCE I",
+			"DATA STRUCTURES",
+			"CALCULUS I",
+			"PHYSICS I",
+			"CALCULUS II",
+			"INTRODUCTION TO BIOLOGY",
+			"INTRODUCTION TO BIOLOGY LAB",
+			"FOUNDATIONS OF COMPUTER SCI",
+			"COMPUTER ORGANIZATION",
+			"INTRODUCTION TO ALGORITHMS",
+			"PRINCIPLES OF SOFTWARE",
+			"OPERATING SYSTEMS",
+			"PROGRAMMING LANGUAGES"
+		],
+		"elective_courses": [
+			{
+				"name": "Science Option",
+				"count": 1,
+				"classes": [
+					"PHYSICS II",
+					"CHEMISTRY I"
+				]
+			},
+			{
+				"name": "Mathematics Option",
+				"count": 2,
+				"classes": [
+					"MULTIVARIABLE CALCULUS AND MATRIX ALGEBRA",
+					"INTRODUCTION TO DIFFERENTIAL EQUATIONS"
+				]
+			},
+			{
+				"name": "Computer Science Option",
+				"count": 4,
+				"classes": [
+					"GRAPH THEORY",
+					"PARALLEL PROGRAMMING",
+					"DATABASE SYSTEMS",
+					"XINFORMATICS",
+					"SOFTWARE DESIGN & DOCUME",
+					"PRINCIPLES OF PROGRAM ANALYSIS",
+					"GAME DEVELOPMENT II",
+					"INTERACTIVE VISUALIZATION",
+					"NUMERICAL COMPUTING",
+					"INTRO TO NUM METH FOR DIFF EQ",
+					"COGNITIVE MODELING",
+					"SOFTWARE VERIFICATION",
+					"GRAPH MINING",
+					"ECONOMICS AND COMPUTATION",
+					"MACH LEARNING BIOINFORMATICS",
+					"WEB SCIENCE SYSTEMS DEV",
+					"PARALLEL COMPUTING",
+					"PRINCIPLES OF PROGRAM ANALYSIS",
+					"INTERACTIVE VISUALIZATION",
+					"NUMERICAL SOLUTION OF PARTIAL DIFFERENTIAL EQUATIONS",
+					"COMPUTER SCIENCE COLLOQUIUM",
+					"COMPUTER SCIENCE SEMINAR",
+					"ADV DISTRIBUTED SYSTEM SEMINAR",
+					"SOFTWARE VERIFICATION",
+					"GRAPH MINING",
+					"ECONOMICS AND COMPUTATION",
+					"MACH LEARNING BIOINFORMATICS",
+					"PROFESSIONAL PROJECT",
+					"MASTER'S PROJECT",
+					"MASTER'S THESIS",
+					"DISSERTATION"
+				]
+			},
+			{
+				"name": "Theory and Algorithms Concentration Courses",
+				"count": 3,
+				"classes": [
+					"COMPUTATIONAL VISION",
+					"PARALLEL PROGRAMMING",
+					"PARALLEL COMPUTING",
+					"ROBOTICS I",
+					"ROBOTICS II",
+					"ADVANCED COMPUTER GRAPHICS",
+					"GAME DEVELOPMENT II",
+					"INTERACTIVE VISUALIZATION",
+					"LEARNING AND ADVANCED GAME AI",
+					"GAME AI",
+					"ALGORITHMIC ROBOTICS",
+					"APPLIED PARALLEL COMPUTING FOR ENGINEERS",
+					"COMPUTER GRAPHICS",
+					"COMPUTER VISION FOR VISUAL EFFECTS",
+					"COMPUTER VISION",
+					"ROBOT DYNAMICS AND CONTROL",
+					"GAME ARCHITECTURE"
+				]
+			},
+			{
+				"name": "HASS",
+				"count": 6,
+				"classes": [
+					"GENERAL PSYCHOLOGY",
+					"POSITIVE PSYCHOLOGY",
+					"PRINCIPLES OF ECONOMICS",
+					"INTERMEDIATE MICROECONOMIC THEORY",
+					"HISTORY AND CULTURE OF GAMES",
+					"MONEY AND BANKING"
+				]
+			}
+		]
+	},
+	{
+		"name":"ITWS: Computer Networking",
+		"major_courses": [
+			"INTRO TO IT & WEB SCIENCE",
+			"WEB SYSTEMS DEVELOPMENT",
+			"WEB SCIENCE SYSTEMS DEV",
+			"MANAGING IT RESOURCES",
+			"CALCULUS I",
+			"COMPUTER SCIENCE I",
+			"DATA STRUCTURES",
+			"IT AND SOCIETY",
+			"INTRODUCTION TO HCI",
+			"OPERATING SYSTEMS",
+			"CRYPTOGRAPHY AND NETWORK SECURITY I",
+			"COMPUTER COMMUNICATION NETWORKS",
+			"INFORMATION SYSTEM SECURITY",
+			"NETWORK PROGRAMMING",
+			"CRYPTOGRAPHY AND NETWORK SECURITY II"
+		],
+		"elective_courses": [
+			{
+				"name": "ITWS Track",
+				"count": 1,
+				"classes": [
+					"SENIOR THESIS",
+					"IT & WEB SCIENCE CAPSTONE"
+				]
+			},
+			{
+				"name": "ITWS Option",
+				"count": 1,
+				"classes": [
+					"DATABASE SYSTEMS",
+					"DATA RESOURCE MANAGEMENT"
+				]
+			},
+			{
+				"name": "Physical Science Option",
+				"count": 1,
+				"classes": [
+					"PHYSICS I",
+					"PHYSICS II"
+				]
+			},
+			{
+				"name": "Life Science Option",
+				"count": 1,
+				"classes": [
+					"INTRODUCTION TO BIOLOGY",
+					"INTRODUCTION TO BIOLOGY LAB"
+				]
+			},
+			{
+				"name": "Mathematics Option",
+				"count": 2,
+				"classes": [
+					"CALCULUS II",
+					"MULTIVARIABLE CALCULUS AND MATRIX ALGEBRA",
+					"INTRODUCTION TO DIFFERENTIAL EQUATIONS"
+				]
+			},
+			{
+				"name": "Free Elective",
+				"count": 3
+			},
+			{
+				"name": "HASS",
+				"count": 4,
+				"classes": [
+					"GENERAL PSYCHOLOGY",
+					"POSITIVE PSYCHOLOGY",
+					"PRINCIPLES OF ECONOMICS",
+					"MONEY AND BANKING"
+				]
+			}
+		]
+	},
+	{
+		"name":"ITWS: Data Science",
+		"major_courses": [
+			"INTRO TO IT & WEB SCIENCE",
+			"WEB SYSTEMS DEVELOPMENT",
+			"WEB SCIENCE SYSTEMS DEV",
+			"MANAGING IT RESOURCES",
+			"CALCULUS I",
+			"COMPUTER SCIENCE I",
+			"DATA STRUCTURES",
+			"IT AND SOCIETY",
+			"INTRODUCTION TO HCI",
+			"INTRO TO ARTIFICIAL INTELLIG",
+			"OPERATING SYSTEMS",
+			"STATISTICS SEQUENCE A",
+			"NETWORK PROGRAMMING",
+			"DATA SCIENCE",
+			"MACHINE LEARNING FROM DATA",
+			"XINFORMATICS",
+			"STATISTICS SEQUENCE B"
+		],
+		"elective_courses": [
+			{
+				"name": "ITWS Track",
+				"count": 1,
+				"classes": [
+					"SENIOR THESIS",
+					"IT & WEB SCIENCE CAPSTONE"
+				]
+			},
+			{
+				"name": "ITWS Option",
+				"count": 1,
+				"classes": [
+					"DATABASE SYSTEMS",
+					"DATA RESOURCE MANAGEMENT"
+				]
+			},
+			{
+				"name": "Physical Science Option",
+				"count": 1,
+				"classes": [
+					"PHYSICS I",
+					"PHYSICS II"
+				]
+			},
+			{
+				"name": "Life Science Option",
+				"count": 1,
+				"classes": [
+					"INTRODUCTION TO BIOLOGY",
+					"INTRODUCTION TO BIOLOGY LAB"
+				]
+			},
+			{
+				"name": "Mathematics Option",
+				"count": 2,
+				"classes": [
+					"CALCULUS II",
+					"MULTIVARIABLE CALCULUS AND MATRIX ALGEBRA",
+					"INTRODUCTION TO DIFFERENTIAL EQUATIONS"
+				]
+			},
+			{
+				"name": "Free Elective",
+				"count": 3
+			},
+			{
+				"name": "HASS",
+				"count": 4,
+				"classes": [
+					"GENERAL PSYCHOLOGY",
+					"POSITIVE PSYCHOLOGY",
+					"PRINCIPLES OF ECONOMICS",
+					"MONEY AND BANKING"
+				]
+			}
+		]
+	},
+	{
+		"name":"ITWS: Web Technologies",
+		"major_courses": [
+			"INTRO TO IT & WEB SCIENCE",
+			"WEB SYSTEMS DEVELOPMENT",
+			"WEB SCIENCE SYSTEMS DEV",
+			"MANAGING IT RESOURCES",
+			"CALCULUS I",
+			"COMPUTER SCIENCE I",
+			"DATA STRUCTURES",
+			"IT AND SOCIETY",
+			"INTRODUCTION TO HCI",
+			"PRINCIPLES OF SOFTWARE",
+			"OPERATING SYSTEMS",
+			"NETWORK PROGRAMMING"
+		],
+		"elective_courses": [
+			{
+				"name": "ITWS Track",
+				"count": 1,
+				"classes": [
+					"SENIOR THESIS",
+					"IT & WEB SCIENCE CAPSTONE"
+				]
+			},
+			{
+				"name": "ITWS Option",
+				"count": 1,
+				"classes": [
+					"DATABASE SYSTEMS",
+					"DATA RESOURCE MANAGEMENT"
+				]
+			},
+			{
+				"name": "Physical Science Option",
+				"count": 1,
+				"classes": [
+					"PHYSICS I",
+					"PHYSICS II"
+				]
+			},
+			{
+				"name": "Life Science Option",
+				"count": 1,
+				"classes": [
+					"INTRODUCTION TO BIOLOGY",
+					"INTRODUCTION TO BIOLOGY LAB"
+				]
+			},
+			{
+				"name": "Mathematics Option",
+				"count": 2,
+				"classes": [
+					"CALCULUS II",
+					"MULTIVARIABLE CALCULUS AND MATRIX ALGEBRA",
+					"INTRODUCTION TO DIFFERENTIAL EQUATIONS"
+				]
+			},
+			{
+				"name": "Free Elective",
+				"count": 3
+			},
+			{
+				"name": "Communication Design Elective",
+				"count": 1,
+				"classes": [
+					"INTRODUCTION TO GRAPHICS",
+					"VISUAL POETICS AND NARRATIVE",
+					"DESIGN FOR GLOBAL SOCIETY",
+					"VISUAL DESIGN: THEORY AND APPLICATION",
+					"VISUAL LITERACY",
+					"INFORMATION DESIGN",
+					"STUDIO DESIGN IN HCI"
+				]
+			},
+			{
+				"name": "Intelligent Systems Elective",
+				"count": 1,
+				"classes": [
+					"COGNITIVE MODELING",
+					"COMPUTATIONAL INTELLIGENCE",
+					"MACHINE LEARNING FROM DATA",
+					"INTRODUCTION TO ARTIFICIAL INTELLIGENCE"
+				]
+			},
+			{
+				"name": "Assessment Elective",
+				"count": 1,
+				"classes": [
+					"FOUNDATIONS OF HCI USABILITY",
+					"STUDIO DESIGN IN HCI",
+					"INFORMATION DESIGN",
+					"MATHEMATICAL STATISTICS",
+					"STATISTICAL METHODS"
+				]
+			},
+			{
+				"name": "Computing Elective",
+				"count": 1,
+				"classes": [
+					"COMPUTER ALGORITHMS",
+					"PARALLEL PROGRAMMING",
+					"PROGRAMMING LANGUAGES",
+					"COMPUTER GRAPHICS"
+				]
+			},
+			{
+				"name": "Computing Elective",
+				"count": 1,
+				"classes": [
+					"DATA MINING",
+					"MACHINE LEARNING FROM DATA",
+					"INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+					"SOFTWARE DESIGN AND DOCUME"
+				]
+			},
+			{
+				"name": "HASS",
+				"count": 4,
+				"classes": [
+					"GENERAL PSYCHOLOGY",
+					"POSITIVE PSYCHOLOGY",
+					"PRINCIPLES OF ECONOMICS",
+					"MONEY AND BANKING"
+				]
+			}
+		]
+	},
+	{
+		"name":"ITWS: ",
+		"major_courses": [
+			"INTRO TO IT & WEB SCIENCE",
+			"WEB SYSTEMS DEVELOPMENT",
+			"WEB SCIENCE SYSTEMS DEV",
+			"MANAGING IT RESOURCES",
+			"CALCULUS I",
+			"COMPUTER SCIENCE I",
+			"DATA STRUCTURES",
+			"IT AND SOCIETY",
+			"INTRODUCTION TO HCI"
+		],
+		"elective_courses": [
+			{
+				"name": "ITWS Track",
+				"count": 1,
+				"classes": [
+					"SENIOR THESIS",
+					"IT & WEB SCIENCE CAPSTONE"
+				]
+			},
+			{
+				"name": "ITWS Option",
+				"count": 1,
+				"classes": [
+					"DATABASE SYSTEMS",
+					"DATA RESOURCE MANAGEMENT"
+				]
+			},
+			{
+				"name": "Physical Science Option",
+				"count": 1,
+				"classes": [
+					"PHYSICS I",
+					"PHYSICS II"
+				]
+			},
+			{
+				"name": "Life Science Option",
+				"count": 1,
+				"classes": [
+					"INTRODUCTION TO BIOLOGY",
+					"INTRODUCTION TO BIOLOGY LAB"
+				]
+			},
+			{
+				"name": "Mathematics Option",
+				"count": 2,
+				"classes": [
+					"CALCULUS II",
+					"MULTIVARIABLE CALCULUS AND MATRIX ALGEBRA",
+					"INTRODUCTION TO DIFFERENTIAL EQUATIONS"
+				]
+			},
+			{
+				"name": "Free Elective",
+				"count": 3
+			},
+			{
+				"name": "... Concentration Courses",
+				"count": 3,
+				"classes": [
+				]
+			},
+			{
+				"name": "HASS",
+				"count": 4,
+				"classes": [
+					"GENERAL PSYCHOLOGY",
+					"POSITIVE PSYCHOLOGY",
+					"PRINCIPLES OF ECONOMICS",
+					"MONEY AND BANKING"
+				]
+			}
+		]
+	}
+]
